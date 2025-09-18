@@ -15,9 +15,9 @@ Este proyecto consiste en un formulario de registro que incluye:
 ## Estructura del proyecto
 
 ### formulario-validado
--index.html # Archivo HTML con la estructura del formulario.
--style.css # Archivo CSS con estilos para el formulario y la página.
--script.js # Archivo JavaScript con validaciones del formulario.
+- index.html # Archivo HTML con la estructura del formulario.
+- style.css # Archivo CSS con estilos para el formulario y la página.
+- script.js # Archivo JavaScript con validaciones del formulario.
 
 
 ---
