@@ -2,20 +2,22 @@
 
 ## Descripción
 
-Este proyecto es un formulario de registro simple que incluye:
+Este proyecto consiste en un formulario de registro que incluye:
 
 - Campos para ingresar Nombre, Correo electrónico y Contraseña.
-- Estilos aplicados con CSS para un diseño limpio y centrado.
-- Validaciones básicas con JavaScript para asegurar que el correo tenga formato válido y la contraseña tenga al menos 8 caracteres.
+
+- Diseño hecho con CSS para una vista limpia y centradoa.
+
+- Validaciones mediante JavaScript que nos da la certeza que el correo tenga un formato válido y que la contraseña tenga al menos 8 caracteres.
 
 ---
 
 ## Estructura del proyecto
 
-formulario-validado/
-*index.html # Archivo HTML con la estructura del formulario
-*style.css # Archivo CSS con estilos para el formulario y la página
-*script.js # Archivo JavaScript con validaciones del formulario
+###formulario-validado
+-index.html # Archivo HTML con la estructura del formulario
+-style.css # Archivo CSS con estilos para el formulario y la página
+-script.js # Archivo JavaScript con validaciones del formulario
 
 
 ---
